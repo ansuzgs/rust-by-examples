@@ -1,6 +1,0 @@
-# Ignore all
-*
-
-# Unignore .rs
-!*.rs
-!.gitignore
